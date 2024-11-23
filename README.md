@@ -1,4 +1,4 @@
-# hwid-project
+# SPOOTY
 
 > [!TIP]
 > ***How to download:***
