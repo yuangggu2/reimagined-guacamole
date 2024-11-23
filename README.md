@@ -1,7 +1,5 @@
 # reimagined-guacamole
 
-# hwid-project
-
 > [!TIP]
 > ***How to download:***
 
